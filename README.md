@@ -266,7 +266,7 @@ public function index()
 ///Route::get('/user', [App\Http\Controllers\UserController::class, 'index'])->name('user');
 
 ## comando para ver las rutas
-php artisan route:list
+php artisan route:list 
 
 
 ##y esta la nueva 
